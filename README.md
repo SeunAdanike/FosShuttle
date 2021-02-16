@@ -1,4 +1,4 @@
-# fluttershuttle
+## fluttershuttle
 
 This mobile application enables campus users to track and request pick-ups on their campuses. The mobile application also provides a messaging medium for the drivers and the administrators in case of a special pick-up.
 
